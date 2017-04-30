@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1493544585 source:d:\codeblocksworkstation\coordin_file1\main.cpp
+	<iostream>
+	"coordin.h"
+
+1493543877 d:\codeblocksworkstation\coordin_file1\coordin.h
+
