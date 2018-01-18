@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1496483899 source:d:\github_respository\cplusplus_primerplus\chapter9\namesp\namesp.cpp
+	<iostream>
+	"namesp.h"
+
+1496483647 d:\github_respository\cplusplus_primerplus\chapter9\namesp\namesp.h
+
+1496483972 source:d:\github_respository\cplusplus_primerplus\chapter9\namesp\namessp.cpp
+	<iostream>
+	"namesp.h"
+
