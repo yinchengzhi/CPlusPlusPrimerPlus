@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517408827 source:d:\github_respository\cplusplus_primerplus\chapter10\stock2\stock2.cpp
+	<iostream>
+	"stock2.h"
+
+1517407851 d:\github_respository\cplusplus_primerplus\chapter10\stock2\stock2.h
+	<cstring>
+
