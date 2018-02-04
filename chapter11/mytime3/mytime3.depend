@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517740216 source:d:\github_respository\cplusplus_primerplus\chapter11\mytime3\mytime3.cpp
+	"mytime3.h"
+
+1517740244 d:\github_respository\cplusplus_primerplus\chapter11\mytime3\mytime3.h
+	<iostream>
+
+1517744899 source:d:\github_respository\cplusplus_primerplus\chapter11\mytime3\usetime3.cpp
+	<iostream>
+	"mytime3.h"
+
