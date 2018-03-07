@@ -2,8 +2,9 @@
 #define VECTOR_H_INCLUDED
 
 #include<iostream>
+
 namespace VECTOR{
-    class VECTOR{
+    class Vector{
     private:
         double x;                  // horizontal value
         double y;                  // vertical value

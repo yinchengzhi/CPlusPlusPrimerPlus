@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1520427131 source:d:\github_respository\cplusplus_primerplus\chapter11\vector\randwalk.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"vector.h"
+
+1520427300 d:\github_respository\cplusplus_primerplus\chapter11\vector\vector.h
+	<iostream>
+

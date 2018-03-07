@@ -1,6 +1,7 @@
 // vect.cpp -- methods for Vector class
-#include<math.h>
+#include<cmath>
 #include "vector.h"
+
 using std::sin;
 using std::cos;
 using std::atan2;
@@ -123,9 +124,9 @@ namespace VECTOR{
     //else display polar coordinates if mode is p
     std::ostream & operator<<(std::ostream & os, const Vector & v){
         if(v.mode=='r')
-            os<<" (x,y)" = ("<<v.x<<","<<v.y<<")";
+            os<<" (x,y) = ("<<v.x<<","<<v.y<<")";
         else if(v.mode == 'p'){
-            os<<"(m,a)" = ("<<v.mag<<","<<v.ang*Rad_to_deg<<")";
+            os<<"(m,a) = ("<<v.mag<<","<<v.ang*Rad_to_deg<<")";
         }
         else
             os<<"Vector object mode is invalid";
