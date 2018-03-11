@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1520760121 source:d:\github_respository\cplusplus_primerplus\chapter11\stonewt\stonewt.cpp
+	<iostream>
+	"stonewt.h"
+
+1520755453 d:\github_respository\cplusplus_primerplus\chapter11\stonewt\stonewt.h
+
+1520760063 source:d:\github_respository\cplusplus_primerplus\chapter11\stonewt\stone.cpp
+	<iostream>
+	"stonewt.h"
+
