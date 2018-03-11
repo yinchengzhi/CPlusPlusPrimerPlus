@@ -32,7 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="randwalk.cpp" />
 		<Unit filename="vector.cpp" />
 		<Unit filename="vector.h" />
 		<Extensions>

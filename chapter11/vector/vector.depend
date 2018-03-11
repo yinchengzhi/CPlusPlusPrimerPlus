@@ -8,3 +8,7 @@
 1520427300 d:\github_respository\cplusplus_primerplus\chapter11\vector\vector.h
 	<iostream>
 
+1520427466 source:d:\github_respository\cplusplus_primerplus\chapter11\vector\vector.cpp
+	<cmath>
+	"vector.h"
+

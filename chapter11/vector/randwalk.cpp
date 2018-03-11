@@ -1,3 +1,4 @@
+
 //randwalk.cpp -- using the Vector class
 //compile with the vect.cpp filebuf
 
