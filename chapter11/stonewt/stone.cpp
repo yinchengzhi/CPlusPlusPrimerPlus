@@ -5,7 +5,7 @@
 using std::cout;
 #include"stonewt.h"
 void display(const Stonewt st, int n);
-int main(){
+int main1(){
     Stonewt pavarotti = 260;                  // uses constructor to initialize
     Stonewt wolfe(285.7);                     // same as Stonewt wolfe = 285.7
     Stonewt taft(21, 8);

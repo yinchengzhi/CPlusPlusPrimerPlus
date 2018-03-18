@@ -15,6 +15,9 @@ public:
     ~Stonewt();
     void show_lbs()const;             // show weight in pounds format
     void show_stn()const;             // show weight in stone format
+    //conversion function
+    operator int()const;
+    operator double()const;
 };
 
 #endif // STONEWT_H_INCLUDED

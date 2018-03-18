@@ -33,6 +33,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="stone.cpp" />
+		<Unit filename="stone1.cpp" />
 		<Unit filename="stonewt.cpp" />
 		<Unit filename="stonewt.h" />
 		<Extensions>
