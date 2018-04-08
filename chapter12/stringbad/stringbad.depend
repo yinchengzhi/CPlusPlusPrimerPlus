@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523198308 source:d:\github_respository\cplusplus_primerplus\chapter12\stringbad\stringbad.cpp
+	<cstring>
+	"stringbad.h"
+
+1523198278 d:\github_respository\cplusplus_primerplus\chapter12\stringbad\stringbad.h
+	<iostream>
+
+1523198629 source:d:\github_respository\cplusplus_primerplus\chapter12\stringbad\vegnews.cpp
+	<iostream>
+	"stringbad.h"
+
