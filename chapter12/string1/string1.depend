@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526816853 source:d:\github_respository\cplusplus_primerplus\chapter12\string1\sayings1.cpp
+	<iostream>
+	"string1.h"
+
+1526805113 d:\github_respository\cplusplus_primerplus\chapter12\string1\string1.h
+	<iostream>
+
